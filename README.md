@@ -11,6 +11,8 @@ To write a python program for creating File Transfer using TCP Sockets Links
 ![image](https://github.com/user-attachments/assets/98eeeb75-f9d1-44c0-abf2-65a907c94768)
 
 ## OUPUT
+![image](https://github.com/user-attachments/assets/f9ebd5b7-b6a7-4592-8a1e-b10254371abf)
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
